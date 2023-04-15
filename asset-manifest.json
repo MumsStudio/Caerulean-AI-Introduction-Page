@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Caerulean-AI-Introduction-Page/static/css/main.e6c13ad2.css",
-    "main.js": "/Caerulean-AI-Introduction-Page/static/js/main.c601baeb.js",
-    "static/js/787.77d87a5d.chunk.js": "/Caerulean-AI-Introduction-Page/static/js/787.77d87a5d.chunk.js",
-    "index.html": "/Caerulean-AI-Introduction-Page/index.html",
-    "main.e6c13ad2.css.map": "/Caerulean-AI-Introduction-Page/static/css/main.e6c13ad2.css.map",
-    "main.c601baeb.js.map": "/Caerulean-AI-Introduction-Page/static/js/main.c601baeb.js.map",
-    "787.77d87a5d.chunk.js.map": "/Caerulean-AI-Introduction-Page/static/js/787.77d87a5d.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.46af14aa.js",
+    "static/js/787.77d87a5d.chunk.js": "/static/js/787.77d87a5d.chunk.js",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.46af14aa.js.map": "/static/js/main.46af14aa.js.map",
+    "787.77d87a5d.chunk.js.map": "/static/js/787.77d87a5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.c601baeb.js"
+    "static/js/main.46af14aa.js"
   ]
 }
