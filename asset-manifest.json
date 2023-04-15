@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/caerulean-ai-introduction-page/static/css/main.e6c13ad2.css",
+    "main.js": "/caerulean-ai-introduction-page/static/js/main.836f6d17.js",
+    "static/js/787.77d87a5d.chunk.js": "/caerulean-ai-introduction-page/static/js/787.77d87a5d.chunk.js",
+    "index.html": "/caerulean-ai-introduction-page/index.html",
+    "main.e6c13ad2.css.map": "/caerulean-ai-introduction-page/static/css/main.e6c13ad2.css.map",
+    "main.836f6d17.js.map": "/caerulean-ai-introduction-page/static/js/main.836f6d17.js.map",
+    "787.77d87a5d.chunk.js.map": "/caerulean-ai-introduction-page/static/js/787.77d87a5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.836f6d17.js"
+  ]
+}
